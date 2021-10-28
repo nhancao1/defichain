@@ -108,9 +108,11 @@ header {
   transition: right ease-in-out 500ms, left ease-in-out 500ms;
   transition-delay: 200ms;
 }
+
 .step-title .outline-pink {
   color: #ff00af;
 }
+
 @supports (-webkit-text-stroke: 1px black) {
   .step-title .outline-pink {
     -webkit-text-stroke: 4px #ff00af;
@@ -171,7 +173,7 @@ header {
 }
 
 #select-design #design-title {
-  color: #ff00af;
+  color: #3124ee;
   font-size: 48px;
   margin: 0;
 }

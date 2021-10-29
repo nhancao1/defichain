@@ -129,9 +129,11 @@ header {
 #root.current-step-1 #step-title-1 {
   right: 0;
 }
+
 #root.current-step-2 #step-title-1 {
   right: 100%;
 }
+
 #root.current-step-3 #step-title-1 {
   right: 150%;
 }
